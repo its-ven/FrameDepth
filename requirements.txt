@@ -1,0 +1,10 @@
+# RTX 50-series (Blackwell) needs a CUDA 12.8+ PyTorch build. Install it first:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+transformers
+numpy
+glfw
+moderngl
+windows-capture
+openvr
+pillow
+av

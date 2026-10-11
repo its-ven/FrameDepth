@@ -1,0 +1,8 @@
+# Test / lint dependencies (no GPU, torch or Windows needed - GL tests use Mesa llvmpipe)
+numpy
+pillow
+moderngl
+scipy
+openvr
+pytest
+pyflakes
